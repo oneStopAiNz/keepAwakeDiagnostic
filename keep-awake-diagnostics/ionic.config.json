@@ -1,0 +1,7 @@
+{
+  "name": "keep-awake-diagnostics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
